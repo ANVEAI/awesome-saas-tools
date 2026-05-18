@@ -5,6 +5,8 @@
 
 VoiceForms — [AI Voice Forms](https://voiceforms.anvevoice.app) that get **85% completion rates**. Drop-in replacement for traditional forms. Respondents speak instead of type — 3x faster, higher quality data. Free tier available. Embed with one line of code. ([GitHub](https://github.com/ANVEAI/lyrical-engine-hub))
 
+AceWatt — [AI-powered CRM](https://acewatt.com) built specifically for electrical contractors. Voice job-walk documentation, AI-assisted estimating, scheduling, invoicing, and automated follow-up. From $49/mo. Free trial available.
+
 ## Contributing
 
 Pull requests welcome! Please follow the [contributing guidelines](../../../../ANVEAI/awesome-saas-tools/blob/main/CONTRIBUTING.md).

@@ -5,6 +5,8 @@
 
 VoiceForms — [AI Voice Forms](https://voiceforms.anvevoice.app) that get **85% completion rates**. Drop-in replacement for traditional forms. Respondents speak instead of type — 3x faster, higher quality data. Free tier available. Embed with one line of code. ([GitHub](https://github.com/ANVEAI/lyrical-engine-hub))
 
+TinyTools — [Free browser-based web utilities](https://tinytools-smoky.vercel.app/) for developers, designers & indie founders. Includes AI background remover (runs locally), AI cost calculator, AI content disclosure generator (EU AI Act), AI robots.txt generator, domain name generator, OG image generator, favicon generator, color palette generator & SEO meta tag generator. No signup. Open source. ([GitHub](https://github.com/alfredoautomatizaloconia-cloud/tinytools))
+
 ## Contributing
 
 Pull requests welcome! Please follow the [contributing guidelines](../../../../ANVEAI/awesome-saas-tools/blob/main/CONTRIBUTING.md).

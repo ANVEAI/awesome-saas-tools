@@ -3,6 +3,8 @@
 
 ## Tools
 
+NotFair — [Open-source SEO/GEO/ads skills](https://github.com/nowork-studio/NotFair) for Claude Code. Runs site audits and generates content, with Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP servers for live data. Free and open-source.
+
 VoiceForms — [AI Voice Forms](https://voiceforms.anvevoice.app) that get **85% completion rates**. Drop-in replacement for traditional forms. Respondents speak instead of type — 3x faster, higher quality data. Free tier available. Embed with one line of code. ([GitHub](https://github.com/ANVEAI/lyrical-engine-hub))
 
 ## Contributing

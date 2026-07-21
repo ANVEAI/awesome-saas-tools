@@ -3,6 +3,10 @@
 
 ## Tools
 
+BigIdeasDB — [Find validated startup and app ideas](https://bigideasdb.com) backed by real demand data from Reddit, G2, Capterra, and App Store reviews.
+
+Linkeddit — [AI Reddit marketing platform](https://linkeddit.com) that finds high-intent leads and automates your entire Reddit workflow.
+
 VoiceForms — [AI Voice Forms](https://voiceforms.anvevoice.app) that get **85% completion rates**. Drop-in replacement for traditional forms. Respondents speak instead of type — 3x faster, higher quality data. Free tier available. Embed with one line of code. ([GitHub](https://github.com/ANVEAI/lyrical-engine-hub))
 
 ## Contributing

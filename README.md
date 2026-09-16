@@ -3,6 +3,8 @@
 
 ## Tools
 
+[Social media studio](https://so-me.studio) — Social media scheduling and publishing with AI caption writing, a unified inbox, analytics, and API and MCP integrations.
+
 VoiceForms — [AI Voice Forms](https://voiceforms.anvevoice.app) that get **85% completion rates**. Drop-in replacement for traditional forms. Respondents speak instead of type — 3x faster, higher quality data. Free tier available. Embed with one line of code. ([GitHub](https://github.com/ANVEAI/lyrical-engine-hub))
 
 ## Contributing

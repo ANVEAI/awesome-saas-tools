@@ -5,6 +5,8 @@
 
 VoiceForms — [AI Voice Forms](https://voiceforms.anvevoice.app) that get **85% completion rates**. Drop-in replacement for traditional forms. Respondents speak instead of type — 3x faster, higher quality data. Free tier available. Embed with one line of code. ([GitHub](https://github.com/ANVEAI/lyrical-engine-hub))
 
+Client Close Kit — Free browser-only [freelance invoice & statement of account tools](https://darweesh128-cmd.github.io/client-close-kit/) (MIT, no signup). Includes [statement-of-account.html](https://darweesh128-cmd.github.io/client-close-kit/statement-of-account.html).
+
 ## Contributing
 
 Pull requests welcome! Please follow the [contributing guidelines](../../../../ANVEAI/awesome-saas-tools/blob/main/CONTRIBUTING.md).

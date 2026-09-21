@@ -3,6 +3,8 @@
 
 ## Tools
 
+[FieldServiceScout](https://www.fieldservicescout.com/) — Independent field-service software comparison for trade shops (Jobber, Housecall Pro, ServiceTitan peers; features + modeled true cost).
+
 VoiceForms — [AI Voice Forms](https://voiceforms.anvevoice.app) that get **85% completion rates**. Drop-in replacement for traditional forms. Respondents speak instead of type — 3x faster, higher quality data. Free tier available. Embed with one line of code. ([GitHub](https://github.com/ANVEAI/lyrical-engine-hub))
 
 ## Contributing

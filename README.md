@@ -5,6 +5,8 @@
 
 VoiceForms — [AI Voice Forms](https://voiceforms.anvevoice.app) that get **85% completion rates**. Drop-in replacement for traditional forms. Respondents speak instead of type — 3x faster, higher quality data. Free tier available. Embed with one line of code. ([GitHub](https://github.com/ANVEAI/lyrical-engine-hub))
 
+ProofWall — [Testimonial walls](https://proofwall.wouldairecommend.workers.dev/) Collect text testimonials with one link, approve each story, embed a wall/carousel/badge. Free plan shows 15 approved quotes and never hides your inbox. Lifetime Pro €99 once.
+
 ## Contributing
 
 Pull requests welcome! Please follow the [contributing guidelines](../../../../ANVEAI/awesome-saas-tools/blob/main/CONTRIBUTING.md).
